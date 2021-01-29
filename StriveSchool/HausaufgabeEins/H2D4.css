@@ -1,0 +1,28 @@
+Table,td,th{
+    Border: 2px solid black;
+    border-collapse: collapse;
+}
+
+h3 {
+    color: #666666;
+
+}
+
+#Wertegang {
+    color: red;
+}
+
+.myclass {
+    color:aqua;
+    font-size: 2em;
+}
+
+#picture{
+    width:200px; 
+    height: 280px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1em solid red;
+}
+                       

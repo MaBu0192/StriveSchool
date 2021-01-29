@@ -1,0 +1,78 @@
+
+Table,td,th{
+    Border: 2px solid black;
+    border-collapse: collapse;
+}
+.flex-container {
+    display: flex;
+    justify-content: center;
+}
+
+#Ueberschrift{
+    background-color: darkred;
+}
+
+#Kurzprofil{
+    background-color: darkgray;
+    margin-top:     1em;
+    margin-left:    1em;
+    margin-right:   1em;
+}
+
+#Bild{
+    padding-left: 5em;
+    padding-right: 4em;
+
+}
+
+#Daten{
+    background-color: darksalmon;
+    margin-left:    1em;
+    margin-right:   1em;
+    padding-left:   2em;
+    padding-right:  1em;
+}
+
+#Wertegang{
+    background-color: gold;
+    margin-top:     1em;
+    margin-left:    1em;
+    margin-right:   1em;
+}
+
+.BWertegang{
+    background-color: aqua;
+    padding-left: 5.2em;
+    padding-right: 1em;
+    padding-bottom: 1em;
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+.SWertegang{
+    background-color: blueviolet;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: 1em;
+    margin-left:    1em;
+    margin-right:   1em;
+    margin-bottom:  2em;
+}
+
+#Skills{
+    background-color: deeppink;
+    margin-top:     1em;
+    margin-left:    1em;
+    margin-right:   1em;
+}
+#Hardskills{
+    background-color: coral;
+    margin-left:    1em;
+    margin-right:   1em;
+}
+
+#Softskills{
+    background-color: chartreuse;
+    margin-left:    1em;
+    margin-right:   1em;
+}
